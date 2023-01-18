@@ -1,0 +1,15 @@
+{
+  "OwnerID":"659515013433655309",  
+  "guildID":"838788287140200508", 
+  "logChannelID":"838790063944237096", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["659515013433655309", "", ""], 
+  "boosterRole":"852803730675466280", 
+  "jailRole":"1064916760236675092" 
+}
